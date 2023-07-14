@@ -16,7 +16,7 @@ except ModuleNotFoundError:
     os.system('python run.py')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
-os.system('xdg-open https://w.me/93708509223')
+os.system('xdg-open https://w.me/93705264430')
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
@@ -136,12 +136,15 @@ logo=("""
 
                      best update
 \x1b[1;92m---------------------------------------------------
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m AUTHOR     \x1b[1;97m: \x1b[1;97mjamil visal   
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m FACEBOOK   \x1b[1;97m: \x1b[1;97mjamil visal               
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m WHATSAPP   \x1b[1;97m: \x1b[1;97m0708509223            
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m AUTHOR     \x1b[1;97m: \x1b[1;97mMastan  
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m FACEBOOK   \x1b[1;97m: \x1b[1;97mMastan      
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m WHATSAPP   \x1b[1;97m: \x1b[1;97m0705264430
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m STATUS     \x1b[1;97m: \x1b[1;97mRANDOM CLONING 
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m TYPE       \x1b[1;97m: \x1b[1;97mpaid    
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m jamil visal
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m Mastan
+
+
+
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m 0.9         
 \x1b[1;92m----------------------------------------------------    """)
 
